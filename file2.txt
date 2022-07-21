@@ -1,1 +1,2 @@
 Menambahkan text ke file2.txt
+Menambah baris baru di fie3.txt
