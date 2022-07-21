@@ -1,1 +1,2 @@
-Menambahkan text ke file3.txt
+ Menambahkan text ke file3.txt
+ Menambah kan baris baru
